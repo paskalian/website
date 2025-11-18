@@ -132,7 +132,7 @@ export default function REHome() {
         <div className="contact">
 		  <a href="https://github.com/paskalian" className="btn" target="_blank" rel="noopener noreferrer"><FaGithub size={16}/> GitHub</a>
 		  <a href="https://discord.gg/Fh2UUAVyDk" className="btn" target="_blank" rel="noopener noreferrer"><FaDiscord size={16}/> Discord</a>
-		  <a href="https://www.udemy.com/user/ps-k-4/" className="btn" target="_blank" rel="noopener noreferrer">Udemy</a>
+		  <a href="https://www.udemy.com/course/oyunlarda-hile-yapiminin-temelleri/?referralCode=B12744342A99D1DC8659" className="btn" target="_blank" rel="noopener noreferrer">Udemy</a>
 		</div>
 		<div className="contact">
 		  <a href="https://www.instagram.com/paskal.1337/" className="btn" target="_blank" rel="noopener noreferrer"><FaInstagram size={16}/> Instagram</a>
